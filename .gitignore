@@ -1,0 +1,38 @@
+# OS and editors
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*.tmp
+*.bak
+*.Bak
+
+# MATLAB / Simulink generated files
+slprj/
+*.slxc
+*.autosave
+*.asv
+*.m~
+
+# Keil MDK generated files
+Objects/
+Listings/
+*.o
+*.d
+*.crf
+*.axf
+*.map
+*.lst
+*.lnp
+*.hex
+*.bin
+*.dep
+*.iex
+*.log
+*.lock
+*.htm
+*.uvguix.*
+
+# Python caches used by helper scripts
+__pycache__/
+*.py[cod]

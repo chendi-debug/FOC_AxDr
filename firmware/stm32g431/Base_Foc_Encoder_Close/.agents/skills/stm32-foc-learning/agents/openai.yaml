@@ -1,0 +1,7 @@
+interface:
+  display_name: "STM32 FOC Learning"
+  short_description: "用中文从有感 FOC 学到无感控制"
+  default_prompt: "使用 $stm32-foc-learning，用中文判断当前电机控制里程碑，并实现下一个可验证的小实验。"
+
+policy:
+  allow_implicit_invocation: true

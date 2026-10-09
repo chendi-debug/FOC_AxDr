@@ -1,0 +1,8 @@
+*.slx binary
+*.slxc binary
+*.pdf binary
+*.PDF binary
+*.ioc text
+*.c text
+*.h text
+*.md text
